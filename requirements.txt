@@ -1,0 +1,16 @@
+transformers
+accelerate
+sentencepiece
+gunicorn
+einops
+bitsandbytes
+scipy
+openai
+requests
+datasets
+replicate
+python-dotenv
+pydantic
+fastapi
+httpx
+torch
